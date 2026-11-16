@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Meeting Transcription, Action & Emotion Intelligence",
+  "description": "Upload meeting videos and participant face photos to transcribe speech, match speakers visually, detect facial emotions, highlight action items, and generate per-person task summaries.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
